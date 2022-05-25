@@ -10,8 +10,7 @@ Hvis et parti har et komme i navnet, kan man sætte hele cellen i citationstegn.
 
 Årbøgerne der indskrives fra kan findes på dette link [e-folketingstidende](https://www.folketingstidende.dk/da/e-folketingstidende).
 
-## Noter om indskrivning
-Jeg har bevidst afskrevet partinavn_i_samling præcis som det står i årbøgerne. Altså, jeg har ikke anvendt stort begyndelsesbogstav og har skrevet navnene direkte af.
-
 ## Tanker
-slesvigsk parti har i bøgerne forkortelsen Sl. og er indtil nu det eneste der har et punktum i forkortelsen. Skal dette punktum med i csv-filen?
+1963-2 Der er ingen oversigt over partierne i årbogen for 2. samling, skal vi gå ud fra 1. samling eller 1964 her?
+
+Vores csv fil siger, at der findes en 2. samling for 1970. folketingstidende.dks hjemmeside viser dog kun en samling i dropdown menuen. Når man kigger i årbogen er der valg, men ligesom 1963, så står 2. samlings medlemmer ikke specificeret. 
