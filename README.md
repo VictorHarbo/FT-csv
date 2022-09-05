@@ -3,7 +3,7 @@ Her opdaterer vi partiforkortelser for de partier der har siddet i Folketinget s
 Målet er at have en opdateret CSV fil, der kan bruges til at finde ud af hvad et bestemt partis forkortelse har været i en bestemt samling af folketings tidende, da disse kan ændre sig over tid.  
 
 ## Status
-Perioden fra 1953 til og med 1978 er indskrevet og mangler kun ftb_intern.
+Perioden fra 1953 til og med 2008 er indskrevet og mangler kun ftb_intern.
 
 ## Tips
 Hvis et parti har et komme i navnet, kan man sætte hele cellen i citationstegn. Et eksempel er udenfor partierne, valgt i grønland fra 19551. Hvis man indtaster den som "udenfor partierne, valgt i grønland" ved csv filen, at der er tale om en celle og ikke to.
